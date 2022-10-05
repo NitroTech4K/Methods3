@@ -10,6 +10,11 @@ namespace Methods3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Methods 3");
+            
+
+            Console.ReadKey(true);
+          
         }
     }
 }
